@@ -1,0 +1,1 @@
+Build a method in my java program in which I can find out RSI for different days given input & buy/sell based on RSI. Consider method signature: public TreeMap<LocalDate, Map<String, Object>> processToAddAveragesAndPercentilesRSIEtc(TreeMap<LocalDate, Map<String, Object>> rawData)
